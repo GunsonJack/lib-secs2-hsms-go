@@ -4,7 +4,7 @@ import (
 	"encoding/binary"
 	"math"
 
-	"github.com/GunsonJack/lib-secs2-hsms-go/v3/pkg/ast"
+	"github.com/GunsonJack/lib-secs2-hsms-go/v4/pkg/ast"
 )
 
 const (

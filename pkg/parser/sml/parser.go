@@ -6,7 +6,7 @@ import (
 	"strings"
 	"unicode"
 
-	"github.com/GunsonJack/lib-secs2-hsms-go/v3/pkg/ast"
+	"github.com/GunsonJack/lib-secs2-hsms-go/v4/pkg/ast"
 )
 
 // Parse parses the input string, and return parsed message nodes and parsing errors/warnings.
